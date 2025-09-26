@@ -20,7 +20,7 @@ A Playwright + TypeScript test automation framework for nopCommerce e-commerce p
 git clone <repository-url>
 cd nopcommerce-test-automation
 npm install
-npm run install:browsers
+npm run install: browsers
 ```
 
 ### Run Tests
